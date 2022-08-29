@@ -28,6 +28,6 @@ See [Installation](./INSTALL.md)
 See [Contributing](./CONTRIBUTING.md)
 
 # Running tests
-
+hcnet run successfully.
 See [running tests](./CONTRIBUTING.md#running-tests)
 # hcnet-core
